@@ -24,13 +24,13 @@
 
 ----------
 ## The framework of brain graph learning based on GNNs
-[![framework](figures/framework.png)]
+![framework](figures/framework.png)
 
 ## Surveys
 
 | **Paper Title** | **Venue** | **Year** | **Code** |
 | --------------- | ---- | ---- | ---- |
-| [Benchmarking Graph Neural Networks for FMRI analysis]([https://ieeexplore.ieee.org/abstract/document/9565320](https://arxiv.org/pdf/2211.08927.pdf)) | _Arxiv_ | 2022 |[[Code]](https://github.com/elgazzarr/fMRI-GNNs) |
+| [Benchmarking Graph Neural Networks for FMRI analysis](https://arxiv.org/pdf/2211.08927.pdf) | _Arxiv_ | 2022 |[[Code]](https://github.com/elgazzarr/fMRI-GNNs) |
 | [Graph neural networks for image‐guided disease diagnosis: A review](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ird3.20) | _iRADIOLOGY_ | 2023 |-|
 | [NeuroGraph: Benchmarks for Graph Machine Learning in Brain Connectomics](https://arxiv.org/pdf/2306.06202.pdf) | _Arxiv_ | 2023 | [[Code]](https://anwar-said.github.io/anwarsaid/neurograph.html) |
 | [GNN4EEG: A Benchmark and Toolkit for Electroencephalography Classification with Graph Neural Network](https://arxiv.org/pdf/2309.15515.pdf) | _Arxiv_ | 2023 | [[Code]](https://github.com/Miracle-2001/GNN4EEG)|
