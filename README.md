@@ -6,20 +6,18 @@
 ![GitHub forks](https://img.shields.io/github/forks/XuexiongLuoMQ/Awesome-Brain-Graph-Learning-with-GNNs?color=blue&label=Forks) 
 ![](https://visitor-badge.glitch.me/badge?page_id=littleTreeme)
 
-:fire::fire: This is a collection of awesome papers about graph neural networks for brain graph learning:fire::fire:
+:fire::fire: This is a collection of awesome papers about graph neural networks for brain graph learning :fire::fire:
 
 ## Contents
 - [Surveys](#surveys)
-
-- [Papers](#papers)
-  - [Prediction-Based Static Brain Graph Learning](#Prediction-Based-Static-Brain-Graph-Learning)
-  - [Pathogenic-Based Static Brain Graph Learning](#Pathogenic-Based-Static-Brain-Graph-Learning)
-  - [Prediction-Based Dynamic Brain Graph Learning](#Prediction-Based-Dynamic-Brain-Graph-Learning)
-  - [Pathogenic-Based Dynamic Brain Graph Learning](#Pathogenic-Based-Dynamic-Brain-Graph-Learning)
-  - [Prediction-Based Multi-Modal Brain Graph Learning](#Prediction-Based-Multi-Modal-Brain-Graph-Learning)
-  - [Pathogenic-Based Multi-Modal Brain Graph Learning](#Pathogenic-Based-Multi-Modal-Brain-Graph-Learning)
-  - [Brain Datasets](#Brain-Datasets)
-  - [Brain Graph Analysis Tools](#Brain-Graph-Analysis-Tools)
+- [Prediction-Based Static Brain Graph Learning](#Prediction-Based-Static-Brain-Graph-Learning)
+- [Pathogenic-Based Static Brain Graph Learning](#Pathogenic-Based-Static-Brain-Graph-Learning)
+- [Prediction-Based Dynamic Brain Graph Learning](#Prediction-Based-Dynamic-Brain-Graph-Learning)
+- [Pathogenic-Based Dynamic Brain Graph Learning](#Pathogenic-Based-Dynamic-Brain-Graph-Learning)
+- [Prediction-Based Multi-Modal Brain Graph Learning](#Prediction-Based-Multi-Modal-Brain-Graph-Learning)
+- [Pathogenic-Based Multi-Modal Brain Graph Learning](#Pathogenic-Based-Multi-Modal-Brain-Graph-Learning)
+- [Brain Datasets](#Brain-Datasets)
+- [Brain Graph Analysis Tools](#Brain-Graph-Analysis-Tools)
 
 
 ----------
@@ -40,6 +38,20 @@
 | [Graph Neural Networks in Network Neuroscience](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9903566) |_IEEE TPAMI_ | 2022 |-|
 
 ----------
+## The toy example of different types of brain graph generated
+![brain graph](figures/brain graph.png)
+
+## Prediction-Based Static Brain Graph Learning
+
+<a href="https://ieeexplore.ieee.org/abstract/document/9565320" target="_blank"><img src="./pics/Anomalous_Node_Toy.png" width = "80%" height = "100%" alt="Anomaly_Node_Toy.png" align=center target="_blank"/></a>
+
+| **Paper Title** | **Venue** | **Year** | **Model** | **Code** |
+| ------ | :----: | :--: | :----: | :----: |
+| [EEG-Based Graph Neural Network Classification of Alzheimer’s Disease: An Empirical Evaluation of Functional Connectivity Methods](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9878348) | _IEEE TNSRE_ | 2022 | - | - |
+| [Effective and Interpretable fMRI Analysis via Functional Brain Network Generation ](https://arxiv.org/pdf/2107.11247.pdf) | _ICML Workshop_ | 2021 | - | - |
+| [ Multi-Level Graph Neural Network With Sparsity Pooling for Recognizing Parkinson’s Disease ](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10310009) | _IEEE TNSRE_ | 2023 | SparsityATopK | - |
+| [Balanced Graph Structure Information for Brain Disease Detection ](https://arxiv.org/pdf/2401.00876.pdf) | _PKAW_ | 2023 | Bargrain |- |
+| [Brain network classification based on dynamic graph attention information bottleneck]( https://www.sciencedirect.com/science/article/pii/S0169260723005795) | _Comput. Meth. Programs Biomed._ | 2024 |  | - |
 
 
  
