@@ -118,7 +118,7 @@
 ## Datasets
 
 | **Dataset** | **Data Source** | **Modality Type** | **Code** |
-| ------ | :----: | :--: | :----: | :----: |
+| ------ | :----: | :--: | :----: |
 | [EEG-Based Graph Neural Network Classification of Alzheimer’s Disease: An Empirical Evaluation of Functional Connectivity Methods](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9878348) | _IEEE TNSRE_ | 2022 | - | 
 | [Effective and Interpretable fMRI Analysis via Functional Brain Network Generation ](https://arxiv.org/pdf/2107.11247.pdf) | _ICML Workshop_ | 2021 | - |
 | [ Multi-Level Graph Neural Network With Sparsity Pooling for Recognizing Parkinson’s Disease ](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10310009) | _IEEE TNSRE_ | 2023 | SparsityATopK | 
