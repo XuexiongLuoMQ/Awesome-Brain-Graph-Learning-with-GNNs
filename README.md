@@ -39,7 +39,7 @@
 
 ----------
 ## The toy example of different types of brain graph generated
-[![brain](figures/brain graph.png)]
+[brain](figures/brain graph.png)
 
 ## Prediction-Based Static Brain Graph Learning
 
