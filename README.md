@@ -22,7 +22,7 @@
 
 ----------
 ## The framework of brain graph learning based on GNNs
-![framework](figures/framework.png)
+[framework](https://github.com/XuexiongLuoMQ/Awesome-Brain-Graph-Learning-with-GNNs/blob/main/figures/framework.png)
 
 ## Surveys
 
@@ -39,7 +39,7 @@
 
 ----------
 ## The toy example of different types of brain graph generated
-[brain](figures/brain graph.png)
+[brain](https://github.com/XuexiongLuoMQ/Awesome-Brain-Graph-Learning-with-GNNs/blob/main/figures/brain%20graph.png)
 
 ## Prediction-Based Static Brain Graph Learning
 
