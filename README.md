@@ -39,11 +39,9 @@
 
 ----------
 ## The toy example of different types of brain graph generated
-![brain graph](figures/brain graph.png)
+[![brain](figures/brain graph.png)]
 
 ## Prediction-Based Static Brain Graph Learning
-
-<a href="https://ieeexplore.ieee.org/abstract/document/9565320" target="_blank"><img src="./pics/Anomalous_Node_Toy.png" width = "80%" height = "100%" alt="Anomaly_Node_Toy.png" align=center target="_blank"/></a>
 
 | **Paper Title** | **Venue** | **Year** | **Model** | **Code** |
 | ------ | :----: | :--: | :----: | :----: |
