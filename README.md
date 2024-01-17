@@ -6,7 +6,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/XuexiongLuoMQ/Awesome-Brain-Graph-Learning-with-GNNs?color=blue&label=Forks) 
 ![](https://visitor-badge.glitch.me/badge?page_id=littleTreeme)
 
-:fire::fire: This is a collection of awesome papers about graph neural networks for brain graph learning :fire::fire:
+:fire::fire: This is a collection of awesome papers about graph neural networks for brain graph learning
 
 ## Contents
 - [Surveys](#surveys)
