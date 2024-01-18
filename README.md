@@ -156,7 +156,7 @@
 ## Datasets
 
 | **Dataset** | **Data Source** | **Modality Type** | **Code** |
-| ---- | :-----------: | :----: | :--: |
+| -- | :--------------: | :---: | :--: |
 | ABIDE | Autism Spectrum Disorder | fMRI  | [[Link]](http://fcon_1000.projects.nitrc.org/indi/abide/) | 
 | ADNI | Alzheimer Disorder | fMRI, PET | [[Link]](http://www.loni.ucla.edu/ADNI/Data/index.shtml.) |
 | PPMI | Parkinson Disorder | fMRI | [[Link]](https://www.ppmi-info.org/) | 
@@ -168,8 +168,7 @@
 | Biopoint | Autism Spectrum Disorder | fMRI | - |
 | HIV | Human Immunodeficiency Virus Disorder | fMRI, DTI | - |
 | UKB | The United Kingdom Biobank | fMRI | [[Link]](https://www.ukbiobank.ac.uk/) |
-| NCANDA | The national consortium on alcohol
-and neurodevelopment in adolescence  | fMRI | - |
+| NCANDA | The national consortium on alcohol and neurodevelopment in adolescence  | fMRI | - |
 | PNC | Philadelphia Neuroimaging Cohort  | fMRI | [[Link]](https://www.nitrc.org/projects/pnc) |
 
 
