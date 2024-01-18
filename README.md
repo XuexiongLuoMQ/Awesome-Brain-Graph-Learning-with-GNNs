@@ -155,7 +155,7 @@
 
 ## Datasets
 
-| **Dataset** | **Data Source** | **Modality Type** | **Code** |
+| **Dataset** | **Data Source** | **Modality Type** | **Data Link** |
 | -- | :--------------: | :---: | :--: |
 | ABIDE | Autism Spectrum Disorder | fMRI  | [[Link]](http://fcon_1000.projects.nitrc.org/indi/abide/) | 
 | ADNI | Alzheimer Disorder | fMRI, PET | [[Link]](http://www.loni.ucla.edu/ADNI/Data/index.shtml.) |
