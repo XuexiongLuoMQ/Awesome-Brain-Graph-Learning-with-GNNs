@@ -157,20 +157,49 @@
 
 | **Dataset** | **Data Source** | **Modality Type** | **Code** |
 | ---- | :-----------: | :----: | :--: |
-| [EEG-Based Graph Neural Network Classification of Alzheimer’s Disease: An Empirical Evaluation of Functional Connectivity Methods](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9878348) | _IEEE TNSRE_ | 2022 | - | 
-| [Effective and Interpretable fMRI Analysis via Functional Brain Network Generation ](https://arxiv.org/pdf/2107.11247.pdf) | _ICML Workshop_ | 2021 | - |
-| [ Multi-Level Graph Neural Network With Sparsity Pooling for Recognizing Parkinson’s Disease ](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10310009) | _IEEE TNSRE_ | 2023 | SparsityATopK | 
-| [Balanced Graph Structure Information for Brain Disease Detection ](https://arxiv.org/pdf/2401.00876.pdf) | _PKAW_ | 2023 | Bargrain |
-| [Brain network classification based on dynamic graph attention information bottleneck]( https://www.sciencedirect.com/science/article/pii/S0169260723005795) | _Comput. Meth. Programs Biomed._ | 2024 | - |
+| ABIDE | Autism Spectrum Disorder | fMRI  | [[Link]](http://fcon_1000.projects.nitrc.org/indi/abide/) | 
+| ADNI | Alzheimer Disorder | fMRI, PET | [[Link]](http://www.loni.ucla.edu/ADNI/Data/index.shtml.) |
+| PPMI | Parkinson Disorder | fMRI | [[Link]](https://www.ppmi-info.org/) | 
+| HIV | Human Immunodeficiency Virus Disorder | fMRI, DTI | - |
+| BP | Bipolar Disorder | fMRI, DTI | - |
+| HCP | Human Connectome Project | fMRI | [[Link]](https://db.humanconnectome.org/) |
+| ABCD | Adolescent Brain Cognitive Development Study | fMRI | [[Link]](https://abcdstudy.org) |
+| ADHD |  Attention Deficit Hyperactivity Disorder | fMRI | - |
+| Biopoint | Autism Spectrum Disorder | fMRI | - |
+| HIV | Human Immunodeficiency Virus Disorder | fMRI, DTI | - |
+| UKB | The United Kingdom Biobank | fMRI | [[Link]](https://www.ukbiobank.ac.uk/) |
+| NCANDA | The national consortium on alcohol
+and neurodevelopment in adolescence  | fMRI | - |
+| PNC | Philadelphia Neuroimaging Cohort  | fMRI | [[Link]](https://www.nitrc.org/projects/pnc) |
+
 
 ----------
 
-## Tools
+## Brain Graph Analysis Tools
+
+### fMRI Preprocessing Tools
+
+- SPM https://www.fil.ion.ucl.ac.uk/spm/software/spm12
+- AFNI https://afni.nimh.nih.gov
+- FSL https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/FSL
+- FreeSurfer https://surfer.nmr.mgh.harvard.edu
+- CONN https://web.conn-toolbox.org/home
+- Nilearn https://nilearn.github.io/stable/index.html
+
+### DTI Preprocessing Tools
+
+- AFNI https://afni.nimh.nih.gov
+- FSL https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/FSL
+- DSI Studio https://dsi-studio.labsolver.org
+- MRtrix3 https://www.mrtrix.org/
 
 ----------
 
 **Disclaimer**
 
+If you have any inquiries or updates regarding brain graph learning with GNNs, please do not hesitate to contact us. We also extend an invitation to researchers interested in brain graph learning with GNNs to join this project as contributors and contribute to advancing research in this field.
+
+Emails: xuexiong.luo@hdr.mq.edu.au, jia.wu@mq.edu.au.
 
 
  
