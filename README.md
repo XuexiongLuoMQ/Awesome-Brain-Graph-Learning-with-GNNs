@@ -101,11 +101,9 @@
 
 | **Paper Title** | **Venue** | **Year** | **Model** | **Code** |
 | ----------- | :---: | :--: | :--: | :--: |
-| [EEG-Based Graph Neural Network Classification of Alzheimer’s Disease: An Empirical Evaluation of Functional Connectivity Methods](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9878348) | _IEEE TNSRE_ | 2022 | - | - |
-| [Effective and Interpretable fMRI Analysis via Functional Brain Network Generation ](https://arxiv.org/pdf/2107.11247.pdf) | _ICML Workshop_ | 2021 | - | - |
-| [ Multi-Level Graph Neural Network With Sparsity Pooling for Recognizing Parkinson’s Disease ](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10310009) | _IEEE TNSRE_ | 2023 | SparsityATopK | - |
-| [Balanced Graph Structure Information for Brain Disease Detection ](https://arxiv.org/pdf/2401.00876.pdf) | _PKAW_ | 2023 | Bargrain |- |
-| [Brain network classification based on dynamic graph attention information bottleneck]( https://www.sciencedirect.com/science/article/pii/S0169260723005795) | _Comput. Meth. Programs Biomed._ | 2024 |  | - |
+| [Multi-Scale Dynamic Graph Learning for Brain Disorder Detection With Functional MRI](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10233901) | _IEEE TNSRE_ | 2023 | MDGL | - |
+| [Modeling spatio-temporal patterns of holistic functional brain networks via multi-head guided attention graph neural networks](https://www.sciencedirect.com/science/article/pii/S1361841522001657) | _Med. Image Anal._ | 2022 | Multi-Head GAGNN |  [[Code]](https://github.com/JDYan/Multi-Head-GAGNNs) |
+| [Spatio-Temporal Graph Convolution for Resting-State fMRI Analysis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7700758/) | _MICCAI_ | 2020 | STGCN | [[Code]](https://github.com/sgadgil6/cnslab_fmri) |
 
 ----------
 
@@ -113,11 +111,8 @@
 
 | **Paper Title** | **Venue** | **Year** | **Model** | **Code** |
 | ----------- | :---: | :--: | :--: | :--: |
-| [EEG-Based Graph Neural Network Classification of Alzheimer’s Disease: An Empirical Evaluation of Functional Connectivity Methods](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9878348) | _IEEE TNSRE_ | 2022 | - | - |
-| [Effective and Interpretable fMRI Analysis via Functional Brain Network Generation ](https://arxiv.org/pdf/2107.11247.pdf) | _ICML Workshop_ | 2021 | - | - |
-| [ Multi-Level Graph Neural Network With Sparsity Pooling for Recognizing Parkinson’s Disease ](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10310009) | _IEEE TNSRE_ | 2023 | SparsityATopK | - |
-| [Balanced Graph Structure Information for Brain Disease Detection ](https://arxiv.org/pdf/2401.00876.pdf) | _PKAW_ | 2023 | Bargrain |- |
-| [Brain network classification based on dynamic graph attention information bottleneck]( https://www.sciencedirect.com/science/article/pii/S0169260723005795) | _Comput. Meth. Programs Biomed._ | 2024 |  | - |
+| [Explainable fMRI-based brain decoding via spatial temporal-pyramid graph convolutional network ](https://onlinelibrary.wiley.com/doi/pdf/10.1002/hbm.26255) | _Hum. Brain Mapp._ | 2023 | STpGCN | - |
+| [HDGL: A HIERARCHICAL DYNAMIC GRAPH REPRESENTATION LEARNING MODEL FOR BRAIN DISORDER CLASSIFICATION ](https://arxiv.org/pdf/2311.02903.pdf) | _Arxiv_ | 2023 | HDGL | - |
 
 ----------
 
@@ -125,11 +120,18 @@
 
 | **Paper Title** | **Venue** | **Year** | **Model** | **Code** |
 | ----------- | :---: | :--: | :--: | :--: |
-| [EEG-Based Graph Neural Network Classification of Alzheimer’s Disease: An Empirical Evaluation of Functional Connectivity Methods](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9878348) | _IEEE TNSRE_ | 2022 | - | - |
-| [Effective and Interpretable fMRI Analysis via Functional Brain Network Generation ](https://arxiv.org/pdf/2107.11247.pdf) | _ICML Workshop_ | 2021 | - | - |
-| [ Multi-Level Graph Neural Network With Sparsity Pooling for Recognizing Parkinson’s Disease ](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10310009) | _IEEE TNSRE_ | 2023 | SparsityATopK | - |
-| [Balanced Graph Structure Information for Brain Disease Detection ](https://arxiv.org/pdf/2401.00876.pdf) | _PKAW_ | 2023 | Bargrain |- |
-| [Brain network classification based on dynamic graph attention information bottleneck]( https://www.sciencedirect.com/science/article/pii/S0169260723005795) | _Comput. Meth. Programs Biomed._ | 2024 |  | - |
+| [Multi-View Multi-Graph Embedding for Brain Network Clustering Analysis ](https://ojs.aaai.org/index.php/AAAI/article/view/11288) | _AAAI_ | 2018 | M2E | [[Code]](https://github.com/yeliu918/M2E) |
+| [Brain multigraph prediction using topology-aware adversarial graph neural ](https://www.sciencedirect.com/science/article/pii/S1361841521001365) | _Med. Image Anal._ | 2021 | TopoGAN | [[Code]](https://github.com/basiralab/topoGAN) |
+| [Community-preserving Graph Convolutions for Structural and Functional Joint Embedding of Brain Networks ](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9005586) | _Big Data_ | 2019 | SCP-GCN| - |
+| [Heterogeneous Graph-Based Multimodal Brain Network Learning](https://arxiv.org/pdf/2110.08465.pdf) | _Arxiv_ | 2021 | HebrainGNN |[[Code]](https://github.com/shigen97/HebrainGNN) |
+| [Joint Embedding of Structural and Functional Brain Networks with Graph Neural Networks for Mental Illness Diagnosis ](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9871118) | _EMBC_ | 2022 | BrainNN | - |
+| [Multi-Modal Graph Learning for Disease Prediction ](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9733917) | _TMI_ | 2022 | MMGL | [[Code]](https://github.com/SsGood/MMGL) |
+| [Multi-Modal Non-Euclidean Brain Network Analysis With Community Detection and Convolutional Autoencoder ](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9773106) | _TETCI_ | 2022 | M2CDCA | - |
+| [Multiplex Graph Networks for Multimodal Brain Network Analysis ](https://arxiv.org/pdf/2108.00158.pdf) | _Arxiv_ | 2021 | MGNet | [[Code]](https://github.com/ZhaomingKong/MGNets.) |
+| [Multi-View Brain Network Analysis with Cross-View Missing Network Generation ](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9995283) | _BIBM_ | 2022 | GroGen | [[Code]](https://github.com/GongxuLuo/CroGen) |
+| [Multi-view Graph Embedding with Hub Detection for Brain Network Analysis ](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8215586) | _ICDM_ | 2017 | MVGE-HD | - |
+| [Multi-View Tensor Graph Neural Networks Through Reinforced Aggregation ](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9711926) | _TKDE_ | 2023 | RTGNN | [[Code]](https://github.com/RingBDStack/RTGNN) |
+| [Overlapping Community Detection in Multi view Brain Network ](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8621075) | _BIBM_ | 2018 | oComm | - |
 
 ----------
 
@@ -137,11 +139,17 @@
 
 | **Paper Title** | **Venue** | **Year** | **Model** | **Code** |
 | ----------- | :---: | :--: | :--: | :--: |
-| [EEG-Based Graph Neural Network Classification of Alzheimer’s Disease: An Empirical Evaluation of Functional Connectivity Methods](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9878348) | _IEEE TNSRE_ | 2022 | - | - |
-| [Effective and Interpretable fMRI Analysis via Functional Brain Network Generation ](https://arxiv.org/pdf/2107.11247.pdf) | _ICML Workshop_ | 2021 | - | - |
-| [ Multi-Level Graph Neural Network With Sparsity Pooling for Recognizing Parkinson’s Disease ](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10310009) | _IEEE TNSRE_ | 2023 | SparsityATopK | - |
-| [Balanced Graph Structure Information for Brain Disease Detection ](https://arxiv.org/pdf/2401.00876.pdf) | _PKAW_ | 2023 | Bargrain |- |
-| [Brain network classification based on dynamic graph attention information bottleneck]( https://www.sciencedirect.com/science/article/pii/S0169260723005795) | _Comput. Meth. Programs Biomed._ | 2024 |  | - |
+| [Autistic Spectrum Disorders Diagnose with Graph Neural Networks](https://dl.acm.org/doi/pdf/10.1145/3581783.3613818) | _MM_ | 2023 | - | - |
+| [A graph neural network framework for causal inference in brain networks ](https://www.nature.com/articles/s41598-021-87411-8) | _Scientific Reports_ | 2021 | DCRNN | - |
+| [Multimodal Triplet Attention Network for Brain Disease Diagnosis](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9857948) | _TMI_ | 2022 | - | - |
+| [Multimodal graph coarsening for interpretable, MRI-based brain graph neural network](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9690626) | _MLSP Workshop _ | 2021 | MM-GNN |- |
+| [MSTGC: Multi-Channel Spatio-Temporal Graph Convolution Network for Multi-Modal Brain Networks Fusion ](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10123964) | _TNSRE_ | 2023 | MSTGC | - |
+| [Mapping Multi-modal Brain Connectome for Brain Disorder Diagnosis via Cross-modal Mutual Learning ](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10182318) | _TMI_ | 2023 | Cross-GNN | - |
+| [Interpretable graph convolutional network of multi-modality brain imaging for alzheimer's disease diagnosis](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9761449) | _ISBI_ | 2022 | - | - |
+| [Multimodal Brain Connectomics-Based Prediction of Parkinson’s Disease Using Graph Attention Networks ](https://www.frontiersin.org/articles/10.3389/fnins.2021.741489/full) | _Frontiers in genetics _ | 2022 | - | - |
+| [Deep Representation Learning for Multimodal Brain Networks ](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8293685/) | _MICCAI_ | 2020 | DMBN | - |
+| [BraceNet: Graph-Embedded Neural Network for Brain Network Analysis ](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10021060) | _Big Data_ | 2022 | BraceNet | - |
+| [Multi-modal Graph Neural Network for Early Diagnosis of Alzheimer's Disease from sMRI and PET Scans ](https://www.sciencedirect.com/science/article/pii/S001048252300793X) | _Comput. Biol. Med._ | 2023 | - | - |
 
 ----------
 
