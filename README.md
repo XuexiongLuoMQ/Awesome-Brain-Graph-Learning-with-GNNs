@@ -142,11 +142,11 @@
 | [Autistic Spectrum Disorders Diagnose with Graph Neural Networks](https://dl.acm.org/doi/pdf/10.1145/3581783.3613818) | _MM_ | 2023 | - | - |
 | [A graph neural network framework for causal inference in brain networks ](https://www.nature.com/articles/s41598-021-87411-8) | _Scientific Reports_ | 2021 | DCRNN | - |
 | [Multimodal Triplet Attention Network for Brain Disease Diagnosis](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9857948) | _TMI_ | 2022 | - | - |
-| [Multimodal graph coarsening for interpretable, MRI-based brain graph neural network](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9690626) | _MLSP Workshop _ | 2021 | MM-GNN |- |
+| [Multimodal graph coarsening for interpretable, MRI-based brain graph neural network](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9690626) | _MLSP Workshop_ | 2021 | MM-GNN |- |
 | [MSTGC: Multi-Channel Spatio-Temporal Graph Convolution Network for Multi-Modal Brain Networks Fusion ](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10123964) | _TNSRE_ | 2023 | MSTGC | - |
 | [Mapping Multi-modal Brain Connectome for Brain Disorder Diagnosis via Cross-modal Mutual Learning ](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10182318) | _TMI_ | 2023 | Cross-GNN | - |
 | [Interpretable graph convolutional network of multi-modality brain imaging for alzheimer's disease diagnosis](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9761449) | _ISBI_ | 2022 | - | - |
-| [Multimodal Brain Connectomics-Based Prediction of Parkinson’s Disease Using Graph Attention Networks ](https://www.frontiersin.org/articles/10.3389/fnins.2021.741489/full) | _Frontiers in genetics _ | 2022 | - | - |
+| [Multimodal Brain Connectomics-Based Prediction of Parkinson’s Disease Using Graph Attention Networks ](https://www.frontiersin.org/articles/10.3389/fnins.2021.741489/full) | _Frontiers in genetics_ | 2022 | - | - |
 | [Deep Representation Learning for Multimodal Brain Networks ](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8293685/) | _MICCAI_ | 2020 | DMBN | - |
 | [BraceNet: Graph-Embedded Neural Network for Brain Network Analysis ](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10021060) | _Big Data_ | 2022 | BraceNet | - |
 | [Multi-modal Graph Neural Network for Early Diagnosis of Alzheimer's Disease from sMRI and PET Scans ](https://www.sciencedirect.com/science/article/pii/S001048252300793X) | _Comput. Biol. Med._ | 2023 | - | - |
