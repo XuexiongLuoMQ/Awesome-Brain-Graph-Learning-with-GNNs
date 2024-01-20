@@ -16,7 +16,7 @@
 - [Interpretation-Based Dynamic Brain Graph Learning](#Interpretation-Based-Dynamic-Brain-Graph-Learning)
 - [Prediction-Based Multi-Modal Brain Graph Learning](#Prediction-Based-Multi-Modal-Brain-Graph-Learning)
 - [Interpretation-Based Multi-Modal Brain Graph Learning](#Interpretation-Based-Multi-Modal-Brain-Graph-Learning)
-- [Brain Datasets](#Brain-Datasets)
+- [Brain Neuroimaging Datasets](#Brain-Neuroimaging-Datasets)
 - [Brain Graph Analysis Tools](#Brain-Graph-Analysis-Tools)
 
 
@@ -153,7 +153,7 @@
 
 ----------
 
-## Datasets
+## Brain Neuroimaging Datasets
 
 | **Dataset** | **Data Source** | **Modality Type** | **Data Link** |
 | -- | :--------------: | :---: | :--: |
