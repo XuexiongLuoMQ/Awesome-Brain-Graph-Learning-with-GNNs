@@ -65,7 +65,7 @@
 | [Classification of First-Episode Schizophrenia, Chronic Schizophrenia and Healthy Control Based on Brain Network of Mismatch Negativity by Graph Neural Network](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9515994) | _TNSRE_ | 2021 | - | - |
 | [ Deep reinforcement learning guided graph neural networks for brain network analysis](https://www.sciencedirect.com/science/article/pii/S0893608022002507?casa_token=KFewXixEefMAAAAA:fGzD8g8xtjcCFB0Bux2KO2j0yTuBXe98vpH98pZRg9IZo3yKCrhrx5USv9ATd9GtpfpIxg) | _Neural Networks_ | 2022 | BN-GNN |[[Code]](https://github.com/RingBDStack/BNGNN) |
 | [EEG-GNN: Graph Neural Networks for Classification of Electroencephalogram (EEG) Signals](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9630194&casa_token=LKFHAvrzSRMAAAAA:a8LKc73XLvB4JN8LK9H6eMlC8wZWae14zEkY_HHBzevZ2W_uM5amllUFPA4JCpiW0mrZMw) | _EMBC_ | 2021 | - | - |
-| [PTGB: Pre-Train Graph Neural Networks for Brain Network Analysis ](https://arxiv.org/pdf/2305.14376.pdf) | _CHIL_ | 2022 | PTGB | [[Code]](https://github.com/Owen-Yang-18/BrainNN-PreTrain)  |
+| [PTGB: Pre-Train Graph Neural Networks for Brain Network Analysis ](https://arxiv.org/pdf/2305.14376.pdf) | _CHIL_ | 2023 | PTGB | [[Code]](https://github.com/Owen-Yang-18/BrainNN-PreTrain)  |
 | [ Data-Efficient Brain Connectome Analysis via Multi-Task Meta-Learning](https://dl.acm.org/doi/pdf/10.1145/3534678.3542680) | _KDD_ | 2022 | MML | [[Code]](https://github.com/Owen-Yang-18/BrainNN-PreTrain)  |
 | [Population Graph GNNs for Brain Age Prediction](https://grlplus.github.io/papers/71.pdf) | _ICML Workshop_ | 2020 | - | [[Code]](https://github.com/kamilest/brain-age-gnn) |
 
